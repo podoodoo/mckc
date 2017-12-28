@@ -28,7 +28,7 @@
         font-weight: 400;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: white;
+        color: $gray-600;
         @include heading-font;
         &.active,
         &:hover {
@@ -69,6 +69,13 @@
         font-size: 1.25em;
         padding: 12px 0;
         color: white;
+      }
+      .navbar-nav {
+        .nav-item {
+          .nav-link {
+            color: white;
+          }
+        }
       }
     }
   }
