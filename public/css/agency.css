@@ -1,5 +1,5 @@
 /*!
- * Start Bootstrap - Agency v4.0.0-beta.2 (mckchurch.com)
+ * Start Bootstrap - MCKC v4.0.0-beta.2 (mckchurch.com)
  * Copyright 2013-2017 
  * Licensed under  (https://github.com/BlackrockDigital/mckchurch/blob/master/LICENSE)
  */
